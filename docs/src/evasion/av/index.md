@@ -1,5 +1,5 @@
 ---
-authors: ShutdownRepo
+authors: Jenaye, ShutdownRepo
 ---
 
 # (AV) Anti-Virus
